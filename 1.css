@@ -1,0 +1,13 @@
+#join-us {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: orange;
+  color: white;
+}
+#join-us img {
+  height: 30px;
+  width: 30px;
+}
